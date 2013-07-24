@@ -1,8 +1,3 @@
-'''
-Created on 2013/07/04
-
-@author: tama
-'''
 #!/usr/bin/env python
 # coding: utf-8
 import cgi
